@@ -223,3 +223,6 @@ fulldeploy.sh
 restart_odoo19.sh
 restart_odoo20.sh
 restartodoo.sh
+
+# Local agent guidance
+AGENTS.md
